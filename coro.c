@@ -6,7 +6,7 @@
  * Реализован планировщик round-robin и функция yield
  * (без передачи параметров или выбора переключаемой сопрограммы).
  *
- * (c) Alexey Kryuchkov <alexey.kruchkov@gmail.com>, 2012 
+ * (c) Alexey Kryuchkov <>, 2012 
  *
 */
 #include <stdio.h>
